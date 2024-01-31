@@ -1,0 +1,4 @@
+#Sat Jan 27 11:49:51 BRT 2024
+base.0=/home/hernanzitoskkkj/Documentos/github/contador/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
